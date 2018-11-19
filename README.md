@@ -1,5 +1,19 @@
 # svg.draggable.js
 
+To build this package use:
+
+    grunt default
+
+then push back to github
+
+    git push origin master
+
+thenon main project run
+    
+    npm update
+    
+
+
 A plugin for the [svgdotjs.github.io](https://svgdotjs.github.io/) library to make elements draggable.
 
 Svg.draggable.js is licensed under the terms of the MIT License.
