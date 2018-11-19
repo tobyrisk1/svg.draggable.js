@@ -14,8 +14,12 @@
     "name": "Wout Fierens"
   },
   "contributors": [
-    { "name": "Wout Fierens" },
-    { "name": "Ulrich-Matthias Schäfer" }
+    {
+      "name": "Wout Fierens"
+    },
+    {
+      "name": "Ulrich-Matthias Schäfer"
+    }
   ],
   "homepage": "https://github.com/wout/svg.draggable.js",
   "files": [
@@ -38,6 +42,6 @@
     "grunt-bumper": "^1.0.4"
   },
   "dependencies": {
-    "svg.js":"^2.0.1"
+    "svg.js": "^2.0.1"
   }
 }
